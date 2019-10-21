@@ -1,0 +1,76 @@
+{
+  "car": [
+    {
+      "carType": "digit",
+      "carNumber": "244-RWM",
+      "gpsNumber": "GB42QVRC7827484427989",
+      "carDriver": "张雪",
+      "carGroup": "2",
+      "carDesc": "手动获取GPS 时间信息. 可以使用手表上的按钮操作来接收GPS 信号时间信息。 接收操作成功时，手表的本地城市、时间和日期设置将相应调整",
+      "carOverspeedSet": "50",
+      "id": 3
+    },
+    {
+      "carType": "American",
+      "carNumber": "831 5811",
+      "gpsNumber": "GB68JPPO9546366702900",
+      "carDriver": "王海燕",
+      "carGroup": "2",
+      "carDesc": "手动获取GPS 时间信息. 可以使用手表上的按钮操作来接收GPS 信号时间信息。 接收操作成功时，手表的本地城市、时间和日期设置将相应调整",
+      "carOverspeedSet": "50",
+      "id": 4
+    },
+    {
+      "carType": "Express",
+      "carNumber": "245-IJZ",
+      "gpsNumber": "GB67WYIW4448174727127",
+      "carDriver": "师畅",
+      "carGroup": "1",
+      "carDesc": "手动获取GPS 时间信息. 可以使用手表上的按钮操作来接收GPS 信号时间信息。 接收操作成功时，手表的本地城市、时间和日期设置将相应调整",
+      "carOverspeedSet": "50",
+      "id": 5
+    },
+    {
+      "carType": "Discover",
+      "carNumber": "140 DHI",
+      "gpsNumber": "GB03MCDA0341596002544",
+      "carDriver": "窦秀兰",
+      "carGroup": "1",
+      "carDesc": "",
+      "carOverspeedSet": "80",
+      "id": 6
+    },
+    {
+      "carType": "Mastercard",
+      "carNumber": "34-H459",
+      "gpsNumber": "GB79NPKL6529036022581",
+      "carDriver": "苏畅",
+      "carGroup": "1",
+      "carDesc": "这是政府我的程序需要上海可能以及.一般等级评论",
+      "carOverspeedSet": "80",
+      "id": 7
+    },
+    {
+      "carType": "Maestro",
+      "carNumber": "MBK 975",
+      "gpsNumber": "ONPJ0113491155468",
+      "carDriver": "巩洋",
+      "carGroup": "2",
+      "carDesc": "",
+      "carOverspeedSet": "80",
+      "id": 8
+    }
+  ],
+  "group": [
+    {
+      "id": 1,
+      "name": "分组一",
+      "desc": "手动获取GPS 时间信息. 可以使用手表上的按钮操作来接收GPS 信号时间信息。 接收操作成功时，手表的本地城市、时间和日期设置将相应调整"
+    },
+    {
+      "id": 2,
+      "name": "分组二",
+      "desc": "手动获取GPS 时间信息. 可以使用手表上的按钮操作来接收GPS 信号时间信息。 接收操作成功时，手表的本地城市、时间和日期设置将相应调整"
+    }
+  ]
+}

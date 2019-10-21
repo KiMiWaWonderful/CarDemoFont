@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df98a611-c34f-4df5-8c7d-f33edc82e228" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/secondtry/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/secondtry/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secondtry/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/secondtry/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secondtry/src/components/common/navbar/NavBar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/secondtry/src/components/common/navbar/NavBar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secondtry/src/components/content/cars/Car.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/secondtry/src/components/content/cars/CarAllList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/secondtry/src/components/content/cars/CarAllList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secondtry/src/components/content/cars/CarGroupsList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/secondtry/src/components/content/cars/CarGroupsList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secondtry/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/secondtry/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secondtry/src/views/car/AddCar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/secondtry/src/views/car/AddCar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secondtry/src/views/car/AddGroup.vue" beforeDir="false" afterPath="$PROJECT_DIR$/secondtry/src/views/car/AddGroup.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secondtry/src/views/car/CarList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/secondtry/src/views/car/CarList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secondtry/src/views/profile/Profile.vue" beforeDir="false" afterPath="$PROJECT_DIR$/secondtry/src/views/profile/Profile.vue" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/secondtry" />
+  </component>
+  <component name="ProjectId" id="1QxdmMDn2h1LIlFdbcyJDuSthFq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vue-admin-template" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/secondtry/src/components/common/table" />
+      <recent name="$PROJECT_DIR$/secondtry/src/views/my" />
+      <recent name="$PROJECT_DIR$/secondtry/src" />
+      <recent name="$PROJECT_DIR$/secondtry/src/components" />
+      <recent name="$PROJECT_DIR$/secondtry/src/assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/secondtry/src/assets/img/navbar" />
+      <recent name="$PROJECT_DIR$/firsttry/src/assets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df98a611-c34f-4df5-8c7d-f33edc82e228" name="Default Changelist" comment="" />
+      <created>1568716338165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568716338165</updated>
+      <workItem from="1568716340368" duration="12727000" />
+      <workItem from="1568792022759" duration="15352000" />
+      <workItem from="1568813208987" duration="22625000" />
+      <workItem from="1568941762961" duration="599000" />
+      <workItem from="1568953519228" duration="13902000" />
+      <workItem from="1568985330473" duration="1521000" />
+      <workItem from="1569155120951" duration="599000" />
+      <workItem from="1569757584491" duration="356000" />
+      <workItem from="1569758133060" duration="37644000" />
+      <workItem from="1570259895519" duration="7473000" />
+      <workItem from="1570323424882" duration="26696000" />
+      <workItem from="1570457306624" duration="1185000" />
+      <workItem from="1570491159069" duration="2547000" />
+      <workItem from="1570524645730" duration="42930000" />
+      <workItem from="1570768676925" duration="9800000" />
+      <workItem from="1571664076927" duration="833000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
